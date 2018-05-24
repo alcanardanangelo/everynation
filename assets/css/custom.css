@@ -1,0 +1,28 @@
+* {
+  border-radius: 0 !important;
+}
+
+.error-message {
+  color: firebrick;
+}
+
+.navbar-brand > img {
+  display: block;
+  margin-top: -16px;
+}
+
+.search-button {
+  margin-top: 24px;
+}
+
+.print-table {
+  font-size: 11px !important;
+}
+
+.navbar-inverse {
+  background-color: #4985fc;
+}
+
+#sidebar-logo {
+  width: 100%;
+}
